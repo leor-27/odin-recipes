@@ -1,0 +1,1 @@
+This is my first project in The Odin Project as well as my very first time exploring it. I wanted to do this project first so I can test my skills in HTML, which I have previously learned in other learning materials.
